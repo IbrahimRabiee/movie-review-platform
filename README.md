@@ -17,7 +17,7 @@ A React application that allows users to search for movies, explore details, man
 - REST APIs
 
 ## Screenshot
-![Project Screenshot](./public/screenshots/project.png)
+![Project Screenshot](./public/project.png)
 
 ## Installation
 - npm install
