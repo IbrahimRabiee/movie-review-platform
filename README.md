@@ -1,5 +1,9 @@
 ## Movie Review Platform
 
+## Live Demo
+
+https://ibrahimrabiee.github.io/movie-review-platform/
+
 A React application that allows users to search for movies, explore details, manage favorites, and share movie reviews.
 
 ## Features
